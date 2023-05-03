@@ -1,0 +1,188 @@
+{
+  "Easy": {
+    "AllCategories": [
+      {
+        "id": 1,
+        "question": "This is question 1",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 2,
+        "question": "This is question 2",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 3,
+        "question": "This is question 3",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 4,
+        "question": "This is question 4",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      }
+    ],
+    "Sports": [
+      {
+        "id": 1,
+        "question": "This is question 1",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 2,
+        "question": "This is question 2",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 3,
+        "question": "This is question 3",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 4,
+        "question": "This is question 4",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      }
+    ]
+  },
+  "Medium": {  
+    "AllCategories": [
+      {
+        "id": 1,
+        "question": "This is question 1",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 2,
+        "question": "This is question 2",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 3,
+        "question": "This is question 3",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 4,
+        "question": "This is question 4",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      }
+    ],
+    "Sports": [
+      {
+        "id": 1,
+        "question": "This is question 1",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 2,
+        "question": "This is question 2",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 3,
+        "question": "This is question 3",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 4,
+        "question": "This is question 4",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      }
+    ]
+  },
+  "Hard": {
+    "AllCategories": [
+      {
+        "id": 1,
+        "question": "This is question 1",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 2,
+        "question": "This is question 2",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 3,
+        "question": "This is question 3",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 4,
+        "question": "This is question 4",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      }
+    ],
+    "Sports": [
+      {
+        "id": 1,
+        "question": "This is question 1",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 2,
+        "question": "This is question 2",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 3,
+        "question": "This is question 3",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      },
+      {
+        "id": 4,
+        "question": "This is question 4",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+        "audiencePoll": ["20", "20", "20", "40"],
+        "fiftyfify": ["", "Option 2", "", "Option 4"]
+      }
+    ]
+  }
+}

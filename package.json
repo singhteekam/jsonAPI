@@ -1,0 +1,22 @@
+{
+  "name": "jsonapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhteekam/jsonAPI.git"
+  },
+  "author": "Teekam Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhteekam/jsonAPI/issues"
+  },
+  "homepage": "https://github.com/singhteekam/jsonAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
