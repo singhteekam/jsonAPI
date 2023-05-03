@@ -2,11 +2,10 @@ const express= require("express");
 const app= express();
 const port= process.env.PORT || 5000;
 
-const data= require("./quiz.json");
+const quiz= require("./quiz.json");
 
-app.get("/", (req, res)=>{
-    
-    res.send(data["Easy"]);
+app.get("/quiz", (req, res)=>{
+    res.send(quiz);
 });
 
 app.get("/parse", (req, res)=>{
