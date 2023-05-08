@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "fruitName": "Apple",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/Fruits-name-2.jpg"
+    },
+    {
+        "id": 2,
+        "fruitName": "Banana",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/Fruits-name-3.jpg"
+    },
+    {
+        "id": 3,
+        "fruitName": "Cherry",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/Fruits-name-4.jpg"
+    },
+    {
+        "id": 4,
+        "fruitName": "Coconut",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-5.jpg"
+    },
+    {
+        "id": 5,
+        "fruitName": "Date Fruits",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/Fruits-name-7.jpg"
+    },
+    {
+        "id": 6,
+        "fruitName": "Grapes",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-9.jpg"
+    },
+    {
+        "id": 7,
+        "fruitName": "Guava",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-11.jpg"
+    },
+    {
+        "id": 8,
+        "fruitName": "Honeydew Melon",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-12.jpg"
+    },
+    {
+        "id": 9,
+        "fruitName": "Watermelon",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-49.jpg"
+    },
+    {
+        "id": 10,
+        "fruitName": "Kiwi Fruit",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-14.jpg"
+    },
+    {
+        "id": 11,
+        "fruitName": "Lichi",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-18.jpg"
+    },
+    {
+        "id": 12,
+        "fruitName": "Mango",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-20.jpg"
+    },
+    {
+        "id": 13,
+        "fruitName": "Strawberry",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-41.jpg"
+    },
+    {
+        "id": 14,
+        "fruitName": "Mulberry",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-23.jpg"
+    },
+    {
+        "id": 15,
+        "fruitName": "Orange",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-25.jpg"
+    },
+    {
+        "id": 16,
+        "fruitName": "Papaya",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-27.jpg"
+    },
+    {
+        "id": 17,
+        "fruitName": "Pear",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-28.jpg"
+    },
+    {
+        "id": 18,
+        "fruitName": "Pineapple",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-30.jpg"
+    },
+    {
+        "id": 19,
+        "fruitName": "Pomegranate",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-32.jpg"
+    },
+    {
+        "id": 20,
+        "fruitName": "Sapota( Chikoo )",
+        "fruitImage": "https://www.knowledgelove.com/wp-content/uploads/2020/03/fruits-name-38.jpg"
+    }
+]
