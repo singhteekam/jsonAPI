@@ -4,7 +4,7 @@
 ### Available json files:
 **quiz.json**
 | Syntax | Example | Output |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | /quiz | Display quiz.json | |
 | /quiz/easy/allcategories/:id | /quiz/easy/allcategories/1 | Value at index 1 of Easy->Allcategories |
 | /quiz/easy/sports/:id | /quiz/easy/sports/1 | Value at index 1 of Easy->Sports |
@@ -15,7 +15,7 @@
 
 **fruits.json**
 | Syntax | Example | Output |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | /fruits | Display fruits.json | |
 | /fruits/:id | /fruits/2 | Value at index 2 of array |
 
